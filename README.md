@@ -1,7 +1,7 @@
 # Phys111
-Course Material for Phys 111: General Physics 1 at the University of Idaho during the Fall 2019 semester. This is an alternative source of some course material in case of issues with Blackboard. 
+Course Material for a semester course in General Physics 1. This is an alternative source of some course material in case of issues with an LMS.
 
-Please don't assume that your College/General Physics 1 course has the same exam structure. Double-check the syllabus provided by your instructor.
+Please don't assume that your General Physics 1 course has the same exam structure. Double-check the syllabus provided by your instructor.
 
 # Exam Topics
 
